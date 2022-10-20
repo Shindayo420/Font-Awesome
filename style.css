@@ -2,3 +2,7 @@ body{
 	font-family: 'Montserrat', sans-serif;
 font-family: 'Sacramento', cursive;
 }
+
+*{
+	background-color: indianred;
+}
